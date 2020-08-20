@@ -1,9 +1,4 @@
-[Hux Blog](https://huangxuan.me)
-================================
 
-> I never expected this becomes popular.
-
-![](http://huangxuan.me/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
